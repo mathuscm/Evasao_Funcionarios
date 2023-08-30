@@ -12,11 +12,13 @@ Você deve criar um ou mais dashboards, com o Tableau, identificando as razões 
 
 Este repositório contém uma análise detalhada dos motivos de saída dos funcionários em nossa empresa. 
 O objetivo principal é identificar os motivos subjacentes da evasão e propor soluções para melhorar a retenção de talentos e o desempenho geral.
+Para isto, será analisado algumas questões prévias disponibilizadas para direcionar o entendimento do que pode estar ocorrendo dentro do ambiente de trabalho, assim como responder algumas perguntas que estarão disponíveis diretamente no [relatório](https://github.com/mathuscm/Evasao_Funcionarios/blob/main/Projeto_individual_M5.ipynb).
 
 ## Estrutura do Projeto e ferramentas
 
 - [Fonte dos dados brutos da pesquisa de saída e HRBP](https://docs.google.com/spreadsheets/d/1-RGBztGMYlHJ-GDHkYI9xiwETwuQ8QOT/edit#gid=437389207),
 - Relatório da análise destacando as conclusões e ações propostas.
+  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
