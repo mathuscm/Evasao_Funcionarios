@@ -1,6 +1,6 @@
 # Pessoas deixando a empresa
 <div align="center"> 
-  <img src="https://www.laboneconsultoria.com.br/wp-content/uploads/2022/03/Como-a-an%C3%A1lise-funciona-na-pr%C3%A1tica-1.jpg" width="400"/>
+  <img src="https://www.laboneconsultoria.com.br/wp-content/uploads/2022/03/Como-a-an%C3%A1lise-funciona-na-pr%C3%A1tica-1.jpg"/>
 </div>
 
 ## Contexto:
