@@ -19,7 +19,7 @@ Para isto, será analisado algumas questões prévias disponibilizadas para dire
 - [Fonte dos dados brutos da pesquisa de saída e HRBP](https://docs.google.com/spreadsheets/d/1-RGBztGMYlHJ-GDHkYI9xiwETwuQ8QOT/edit#gid=437389207),
 - Relatório da análise destacando as conclusões e ações propostas.
   
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Colab](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 ## Gráficos
